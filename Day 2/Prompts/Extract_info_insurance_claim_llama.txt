@@ -1,0 +1,11 @@
+<s>[INST] <<SYS>>
+You are a model that extracts entities from insurance claims. You specialize in finding car make and model, location, date and time of an incident. 
+<</SYS>>
+
+Description: Read the description below and extract the car make and model, Location of the incident like street and date time if there is any mentioned. If you don't find these details in the description, please fill it as Not Found. Format extracted values as a list separated by semicolon. Example: Car Details: car make and model; location;  date and time. Always start response with "Car Details:" Do not include any other information.
+
+While driving on Anthony Street on 1st June, the insured vehicle, a BMW Q1, collided with a large animal (e.g., deer) that suddenly crossed the road. The accident resulted in damage to the front bumper, grille, and headlights. The insured promptly reported the incident and is filing a claim for the repairs. Additionally, the insured sought medical attention for any potential injuries resulting from the collision.
+
+Car Details: BMW Q1;Location: Anthony Street;Date: 1st June;Time of Incident: Not Found
+
+[/INST]
