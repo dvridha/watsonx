@@ -1,0 +1,38 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are performing a classification task. Classify the task as "general" or "programming". Respond with one word enclosed in "". Do not add any additional output.
+
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Classify the task as as "general" or "programming". Respond with one word enclosed in "". Do not add any additional output.
+
+Task: Write a Python function to find the maximum value in a list of integers.
+Class: "programming"
+
+Task: Write a Python program to calculate the factorial of a given number.
+Class: "programming"
+
+Task: Write a Python function to check if a given string is a palindrome.
+Class: "programming"
+
+Task: Write a Python program to find the first duplicate in a given list of integers.
+Class: "programming"
+
+Task: Write a Python function to find the sum of all elements in a given list of integers.
+Class: "programming"
+
+Task:What is the current sales revenue for the Eastern region?
+Class: "general"
+
+Task:What is the average order value for customers in the 25-34 age range?
+Class: "general"
+
+Task:What is the total number of customers who have purchased from us in the last 6 months?
+Class: "general"
+
+Task:What is the top-selling product in the Western region?
+Class: "general"
+
+Task:What is the total revenue generated from customers who have purchased more than 5 times?
+Class: "general"
+
+Task:{task}
+Class: 

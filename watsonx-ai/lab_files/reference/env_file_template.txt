@@ -1,0 +1,10 @@
+# use jp for Japan and us for US
+locale=us
+api_key=
+project_id=
+# url=https://jp-tok.ml.cloud.ibm.com
+url = "https://us-south.ml.cloud.ibm.com"
+space_id = 
+question_deployment_id = 
+programming_deployment_id = 
+classification_deployment_id=
