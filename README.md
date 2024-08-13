@@ -1,4 +1,4 @@
-# watsonx Workshpo Materials    
+# watsonx Workshop Materials    
 
 watsonx-ai folder containers watsonx.ai onboarding workshop
 
