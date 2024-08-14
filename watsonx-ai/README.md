@@ -13,9 +13,16 @@ This environment contains functionality from both watsonx.ai and watsonx.governa
 
 ## Relevant Links and Environment Access
 
-Github:  https://github.com/dvridha/watsonx
-Box Folder: https://ibm.box.com/v/hcscwatsonxworkshop
-watsonx URL:  https://dataplatform.cloud.ibm.com/wx/home?context=wx
-IBM Cloud URL:  https://cloud.ibm.com/
-IBM watsonx.governance URL: https://cloud.ibm.com/services/aiopenscale/crn%3Av1%3Abluemix%3Apublic%3Aaiopenscale%3Aus-south%3Aa%2F1d334f6f5c4a402389b1001f50d6565d%3A2f23ab24-0e65-48e2-a67d-703800ead6d8%3A%3A
+- Github:  https://github.com/dvridha/watsonx
+- Box Folder: https://ibm.box.com/v/hcscwatsonxworkshop
+- Box Password:  HCSCIBMWorkshop
+- watsonx URL:  https://dataplatform.cloud.ibm.com/wx/home?context=wx
+- IBM Cloud URL:  https://cloud.ibm.com/
+- IBM watsonx.governance URL: https://cloud.ibm.com/services/aiopenscale/crn%3Av1%3Abluemix%3Apublic%3Aaiopenscale%3Aus-south%3Aa%2F1d334f6f5c4a402389b1001f50d6565d%3A2f23ab24-0e65-48e2-a67d-703800ead6d8%3A%3A
 
+In case your IBM Cloud ID is not working
+
+- Backup Student Login URL:  https://cloud.ibm.com/authorize/itzwatsonx
+- Backup Student ID:  user_azoq5
+- Backup Student Password:  mr0pofgv8pct41e
+- Backup Student API Key:  -DQ2T1zS8wSkAjhtYdfG6691tGZfTN5lE95poC5gg-0JM
